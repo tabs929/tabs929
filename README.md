@@ -119,6 +119,6 @@ Python-based tool for comparing ISO 20022 XSD schema versions and generating str
 
 💼 LinkedIn: https://www.linkedin.com/in/tarunbagewadi/
 
-📫 Email: tarun.bagewadi99@gmail.com
+📫 Email: tbagewad@usc.edu - tarun.bagewadi7@gmail.com 
 
 🐙 GitHub: https://github.com/tabs929
